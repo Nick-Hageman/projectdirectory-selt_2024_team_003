@@ -1,4 +1,6 @@
 # Welcome to Shards of the Grid!
+Click the image below to view our team's video
+[![Project Video](https://github.com/user-attachments/assets/95a1c4f5-9d5a-4d3a-9b04-268fb517dd35)](https://youtu.be/QLRdmToCWGQ)
 
 Embark on an epic RPG adventure where every journey is uniquely crafted just for you! 🗺️ Create your hero, explore dynamic AI-generated worlds, and interact with NPCs through thrilling battles or intriguing conversations. 🗡️💬
 
